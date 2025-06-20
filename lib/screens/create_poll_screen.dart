@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:publicoptionapp/const/colors.dart';
 import 'package:publicoptionapp/widgets/button_widget.dart';
 import 'package:publicoptionapp/widgets/container_widget.dart';
 import 'package:publicoptionapp/widgets/option_widget.dart';
