@@ -59,9 +59,9 @@ class _CreatePollScreenState extends State<CreatePollScreen> {
                                     ],
                                   ),
                                 ),
-                                const RoundedIconWidget(
-                                  icon: Icon(Icons.more_vert),
-                                ),
+                                // const RoundedIconWidget(
+                                //   icon: Icon(Icons.more_vert),
+                                // ),
                               ],
                             ),
                             const Divider(),
